@@ -1,10 +1,10 @@
 {
-    "name": "AutoServ",
+    "name": "AutoSide",
     "short_name": "AS",
-    "start_url": "https://khrapal-max.github.io/homepage/",
-    "scope": "https://khrapal-max.github.io/homepage/",
-    "background_color": "#cfe6e3",
-    "theme_color": "#2d5450",
+    "start_url": "https://testautoside.000webhostapp.com/",
+    "scope": "https://testautoside.000webhostapp.com/",
+    "background_color": "rgb(31, 31, 31)",
+    "theme_color": "rgb(31, 31, 31)",
     "display": "standalone",
     "icons": [
         {
